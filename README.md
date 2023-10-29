@@ -18,6 +18,9 @@ Task and time management has always worked best for me when I have a working cal
 - [W3Schools](https://www.w3schools.com/jquery/jquery_css_classes.asp/ "W3Schools") 
 - [Day.js](https://day.js.org/docs/en/get-set/hour/ "Day.js")
 
+## Deployed Application
+- [Deployed Project](https://tugwellchristi.github.io/Daily-Task-Planner/ "Project Link")
+
 ## Screenshots
 - Adding events 
 ![Screen Shot 2023-10-29 at 1 19 02 PM](https://github.com/tugwellchristi/Daily-Task-Planner/assets/90078824/6f744a22-26d7-4b2c-ac33-35efa04b725c)
@@ -28,5 +31,6 @@ Task and time management has always worked best for me when I have a working cal
 - Clearing events and local storage upon clicking "Clear All" button
 ![Screen Shot 2023-10-29 at 1 20 03 PM](https://github.com/tugwellchristi/Daily-Task-Planner/assets/90078824/4b885e52-ec19-4ce1-8b7d-928ad132f55a)
 
-- ## Deployed Application
-- [Deployed Project](projectlink/ "Project Link")
+
+## Original Project Reference
+- ![05-third-party-apis-homework-demo](https://github.com/tugwellchristi/Daily-Task-Planner/assets/90078824/11207088-88ae-463b-9783-1d8726d62c9a)
